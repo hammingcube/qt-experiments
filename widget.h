@@ -15,6 +15,11 @@ public:
     explicit Widget(QWidget *parent = 0);
     ~Widget();
 
+private slots:
+    void on_pushButton_clicked();
+
+    void on_label_2_objectNameChanged(const QString &objectName);
+
 private:
     Ui::Widget *ui;
 };
