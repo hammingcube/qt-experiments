@@ -2,6 +2,8 @@ Getting Started with Qt
 =========
 This repository contains a gentle introduction to getting started with Qt 5 (primarily on Mac OS X).
 
+![Don't ask why it's called Second App](https://raw.githubusercontent.com/maddyonline/qt-experiments/master/screenshots/screenshot.png)
+
 Installation
 --------------
 ```sh
